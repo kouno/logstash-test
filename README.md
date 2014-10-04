@@ -44,3 +44,8 @@ describe 'Logstash filters' do
   end
 end
 ```
+
+Versions
+========
+
+This gem have been tested against LogStash 1.3.3. Support for 1.4.x coming soon...
